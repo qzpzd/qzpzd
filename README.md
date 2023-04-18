@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&layout=compact)](https://github.com/Christmas/github-readme-stats)
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzpzd&show_icons=true&theme=tokyonight)
-<!-- <p><a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=qzpzd&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> </a> <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </a></p> -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=qzpzd&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
