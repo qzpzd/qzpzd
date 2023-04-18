@@ -13,11 +13,7 @@
 - 👯 公众号『 科技之源 』
 - 🤔 博客 『 [个人博客](https://qzpzd.github.io/myblog/) 』
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&layout=compact)](https://github.com/Christmas/github-readme-stats)
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzpzd&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
-<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff, c64dff" />  -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=qzpzd&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
