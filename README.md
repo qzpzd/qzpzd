@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<span > <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Jupyter-1572B6?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/-Html-oringe?style=flat-square&logo=html" /> </span>
+<span > <div align="center"><img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Jupyter-1572B6?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/-Html-oringe?style=flat-square&logo=html" /> </div></span>
+      
       作为一个半路踏进互联网的一名码农，依然是一个小白，但阻挡不了喜欢研究，分享各种东西的好奇心！
 
 - 🔭 就职于武汉一家深度学习算法工程师
