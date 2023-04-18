@@ -16,6 +16,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&layout=compact)](https://github.com/Christmas/github-readme-stats)
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzpzd&show_icons=true&theme=tokyonight)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> 
+<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff, c64dff" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff, c64dff" />  -->
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qzpzd&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzpzd&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
