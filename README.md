@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**qzpzd/qzpzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---
 
 - 🔭 就职于武汉一家深度学习算法工程师
 - 🌱 目前正在研究自动驾驶领域包括cv、nlp方向
