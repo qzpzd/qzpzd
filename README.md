@@ -5,7 +5,7 @@
 <span > <div align="center"><img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Jupyter-1572B6?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/-HTML5-oringe?style=flat-square&logo=html5" /> </div></span>
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);qzpzd同学祝您今天愉快!&center=true&size=27"> </a> </h1>
-[https://github.com/qzpzd/qzpzd/blob/main/code.gif](https://github.com/qzpzd/qzpzd/blob/main/code.gif)
+![](https://github.com/qzpzd/qzpzd/blob/main/code.gif)
 
 <img align="right" alt="GIF" src="https://github.com/qzpzd/qzpzd/blob/main/code.gif?raw=true" width="500" height="320" />
 
