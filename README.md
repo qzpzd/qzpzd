@@ -2,8 +2,14 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
-<span > <div align="center"><img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Jupyter-1572B6?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/-HTML5-oringe?style=flat-square&logo=html5" /> </div></span>
 
+
+
+<span > <div align="center"><a href="https://blog.csdn.net/m0_47709941">
+<img src ="https://img.shields.io/badge/dynamic/xml?color=red&label=python&logo=python&query=%2F%2F%2A%5B%40id%3D%22userSkin%22%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%2Fdiv%5B2%5D%2Fspan&url=https%3A%2F%2Fblog.csdn.net%2Fm0_47709941%3Ftype%3Dblog"/>
+<img src="https://img.shields.io/badge/-jupyter-yellow?style=flat-square&logo=jupyter&logoColor=red" /> <img src="https://img.shields.io/badge/-HTML5-oringe?style=flat-square&logo=html5" /> </div></span> 
+<!-- </a><img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=red" /> -->
+ 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);qzpzd同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 
 
