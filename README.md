@@ -6,8 +6,6 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);qzpzd同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 
-作为一个半路踏进互联网的一名码农，依然是一个小白，但阻挡不了喜欢研究，分享各种东西的好奇心！
-
 - 🔭 就职于武汉一家深度学习算法工程师
 - 🌱 目前正在研究自动驾驶领域包括cv、nlp方向
 - 👯 公众号『 科技之源 』
